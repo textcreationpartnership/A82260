@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Declaration shewing the necessity of the Earle of Straffords suffering.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82260</idno>
+            <idno type="STC">Wing D795</idno>
+            <idno type="STC">Thomason E158_2</idno>
+            <idno type="STC">ESTC R212698</idno>
+            <idno type="EEBO-CITATION">99871283</idno>
+            <idno type="PROQUEST">99871283</idno>
+            <idno type="VID">156898</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82260)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156898)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 28:E158[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Declaration shewing the necessity of the Earle of Straffords suffering.</title>
+               </titleStmt>
+               <extent>[12] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Signatures: A-B⁴ (-A1, B4).</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Strafford, Thomas Wentworth, --  Earl of, 1593-1641.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156898:1" rendition="simple:additions"/>
+            <p>A DECLARATION Shewing THE NECESSITY Of the EARLE OF STRAFFORDS Suffering.</p>
+            <p>Printed in the yeare 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:156898:2"/>
+            <pb facs="tcp:156898:2"/>
+            <head>THE NECESSITY OF THE EARLE OF <hi>STRAFFORDS</hi> SUFFERING.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>O give you my advice why it is likely and moſt probable, I will give you my reaſon; as cauſes produce effects, ele<g ref="char:EOLhyphen"/>vation and neare approach of the Sunne argueth Spring; greenneſſe and flowers, declare Summer; throwes antece<g ref="char:EOLhyphen"/>dents of nativity; clouds portend raine, and laying the cloath a preparation for dinner: He the Earle of Straffords eſcape of puniſh<g ref="char:EOLhyphen"/>ment, muſt of neceſſity raiſe a lamentable ſtorme in our calme, as invading our liber<g ref="char:EOLhyphen"/>ties, ſhipwracking property of goods, cau<g ref="char:EOLhyphen"/>ſing puniſhment upon his impeachers, ſo that the trienniall Parliament will bee of no
+<pb facs="tcp:156898:3"/>ſuch force as is expected; for beſides it will incourage others to doe the like inſo<g ref="char:EOLhyphen"/>lencies, oppreſſions, extortions, outrages and tyrannies; it will undoe our State: conſider we therefore his Phyſiognomy, poſture of perſon, proud carriage, and inſolent behavi<g ref="char:EOLhyphen"/>our, it may eaſily foretell the future, as fal<g ref="char:EOLhyphen"/>ling leaves winter; for his palled colour ſheweth revenge; his ſower face, cruelty; his ſtooping and looking to the earth, avarice; his gate, pride; and his demeanour, inſolency; for revenge is odious in greatneſſe, cruelty abhominable in governours, avarice hate<g ref="char:EOLhyphen"/>full to God and man, as appeares by his ſole ingroſing commodities in Ireland, and therefore he will bee <hi>homo hominibus lupus,</hi> proud in Magiſtracy, inſolent in ſupreame place, which will breed contempt, contempt impatience, impatience fury, fury rebellion, and rebellion ruine of King and people, for he hath beene ſo inveſted by the divell in all deeds, as he can be changed no more then the Leopard from ſpots, or the Negro from blacknes, and who ſhall undertake to alter him, laboureth in vaine.</p>
+            <p>The Duke of Ireland <hi>Michael de la Pool</hi> &amp; his confederates, cauſed the breaking of the Parliament, when the Parliament had made the Duke of Glouceſter and others Com<g ref="char:EOLhyphen"/>miſſioners to reforme abuſes, which were a
+<pb facs="tcp:156898:3"/>mighty preſſure then, but thoſe Monſters made all thoſe faithfull Miniſters of State, conſpirators againſt King <hi>Richard</hi> the ſe<g ref="char:EOLhyphen"/>cond and his prerogative, though theſe ca<g ref="char:EOLhyphen"/>terpillers were delinquents and laboured the demolition and overthrow of the whole Eſtate; wherefore it hath beene a rule, that an ill inſtrument hath alwaies beene made incapable of government and can bee of no uſe, for the poſtea; ſuch alwaies have brought an <hi>ad quod damnum</hi> to the Prince, and miſ<g ref="char:EOLhyphen"/>chiefe to the Common wealth; for hee is as ſubtile as <hi>Lewis</hi> the eleventh, libidinous as <hi>Tiberius,</hi> cruell as <hi>Nero,</hi> covetous as rich <hi>Creſſus,</hi> as terrible as <hi>Phalaris,</hi> and miſchie<g ref="char:EOLhyphen"/>vous as <hi>Sejanus,</hi> and at the ſame end may he arrive. I will never beleeve but he aimes at Monarchy whoſe actions ſpinne threads of Empire not eaſie to be numbred, and there<g ref="char:EOLhyphen"/>fore is worthy of no compaſſion of King or Parliament: for this cauſe there is no more worthy ſubject of ruine then the acqueſts of his manifold deeds; now the Deere which eſcapes the toile is more manniſh, the madde Bull wounded and let looſe doth more miſchiefe: ſo if the Earle ſhall get out of the net he will be more ſavage then before, like the Duke of Ireland perſecuted the Pa<g ref="char:EOLhyphen"/>triots of the Common wealth: for revenge
+<pb facs="tcp:156898:4"/>in cold bloud is more dangerous then in paſſion, like the Maſtive worried returns with others to kill.</p>
+            <p>Conſider therefore his wicked facts, in the frontiſpiece of which, his ſetting enmity betweene the two Nations England and Scotland, brothers and ſubjects to one So<g ref="char:EOLhyphen"/>veraigne, his exerciſing regall authority in Ireland, in impoveriſhing that Kingdome, fining, impriſoning, cauſing divers to die, putting out hundreds from their eſtates by force and armes, ſtarving others for want of flax and materialls, impoſing new oathes againſt Law, and finally breaking up the laſt Parliament. All which are high treaſon and are ſo adjudged in the caſe of the Duke of Ireland and his confederates in the ſixt of <hi>Richard</hi> the ſecond.</p>
+            <p>Certainly by theſe barbarous actions hee hath cauſed the Subjects of England, Scot<g ref="char:EOLhyphen"/>land and Ireland to murmure againſt the Diadem; for the higheſt treaſon of all is to cauſe the Throne to be deſpiſed, the Power neglected, and his ſubjects to rebell, which in all ages hath beene held (by Civill and Common Law) a moſt abhominable <hi>Dam<g ref="char:EOLhyphen"/>num Majeſtatis,</hi> worſe then hurt of Majeſty; for if <hi>Otho Grandorſer</hi> for making diviſion betweene the Palatine of Rhene and his
+<pb facs="tcp:156898:4"/>mother loſt his tongue and eyes much more, cauſing Subjects rebell (mem<g ref="char:EOLhyphen"/>bers of the ſame heads) ought to bee loſſe of life; The Kings regall power hath beene obſtructed and intercepted, eclipſing the ſhining Throne; it could not command their affections, perſons, purſes, nor cauſe them fight againſt the Scots, whom they thought honeſt and good Subjects: and not to inſiſt upon one fact, hath not hee cauſed men to be ſhot to death and executed? So <hi>Alvarode Luna</hi> for ſuch pride, in cauſing a Gentleman of Spaine to have his necke broake out of a window, becauſe he ſpake ill of him, was executed, though a great fa<g ref="char:EOLhyphen"/>vourite, and upon this reaſon that it procu<g ref="char:EOLhyphen"/>red the hatred of the people againſt the King.</p>
+            <p>It is no anſwer to alledge that he did it by a councell of warre, for it hath no power in peaceable times where the quarrell is for the Subjects right and religion, which the Prince cannot nor ought divorce them from; yea ſome of them have beene ſacrificed to appeaſe the people, though happily not guil<g ref="char:EOLhyphen"/>ty of death; as <hi>Commodus</hi> the Emperour cauſed <hi>Cleandor</hi> to die to appeaſe the multi<g ref="char:EOLhyphen"/>tude, which Emperour was much commen<g ref="char:EOLhyphen"/>ded by the Hiſtorians of that time: for that
+<pb facs="tcp:156898:5"/>wicked inſtruments of State have no bridle but feare of puniſhment; for which cauſe the inventors of <hi>Gabells</hi> impoſitions and ſuch like have beene rewarded with death; hath not he impoveriſhed the Subjects of Ireland and the County of Yorke, it is moſt certain he hath; his ambitious minde hath cauſed him oppreſſe Ireland, as <hi>Sejanus</hi> the Roman Monarchie, who received his demerits a ſhamefull death; his averice in a Subject hath undone the Merchants of Ireland, and op<g ref="char:EOLhyphen"/>preſſion of Subjects by Subjects deſerveth death: and to ſay the truth this man is grea<g ref="char:EOLhyphen"/>ter then his Anceſtors, leſſe then his thoughts; which like a whirlewinde hath carried him to ſo abhominable courſes as hath beene brought to paſſe, man cannot receive, nor fortune give more; if ſhee had not made him a King it was becauſe ſhee eſteemed it a leſſe thing to make him a head of an Empire, then give the head of Monarchie to the prey of one; health, wit, riches, greatneſſe and honour, are gifts impoveriſh the foundreſſe, if after the gift her avarice did not retake them.</p>
+            <p>There was only the Duke of Ireland had ſo abſolute a power in Ireland, as he. The firſt laboured to bee abſolute Duke of Ire<g ref="char:EOLhyphen"/>land, and ſo will this if he be not cut off in
+<pb facs="tcp:156898:5"/>his careire: for as others then, ſo the Papiſts now, (who are the greater part of Ireland) would if it were in their power make him a King: wherefore it appeares neceſſary, that he ſhould have condigne puniſhment, for wickedneſſe unpuniſhed diminiſheth not, but increaſeth force; the phyſicke which this Parliament ſhould adminiſter to the ſicke ſtate of the Common-wealth, is ſea<g ref="char:EOLhyphen"/>ſonable, for nothing is more dangerous in the beginning of feavers then not to let bloud, and it is mortall in gangrenes not to cut off a member; the houſe of Commons hath voated him a traytor, the grand jury of the Kingdome as hath beene ſaid in other Parliaments; and ſhall he goe unpuniſhed (God forbid?) likewiſe hee hath had a moſt honourable triall before the three Eſtates, with divers teſtimonies upon the ſeverall Articles, convinced with prooffes; therefore the Lords by the Earle Marſhall ought as in other Parliaments to give ſentence, for it ap<g ref="char:EOLhyphen"/>pears by the 25. of <hi>Ed.</hi> the third <hi>Cap.</hi> 2. That the Parliament onely hath power to expreſſe and declare what is treaſon, and to ſentence it in caſes not ſpecified by the aforeſaid Sta<g ref="char:EOLhyphen"/>tute, the words are theſe.</p>
+            <p>That if any other caſe ſuppoſed treaſon not above ſpecified, ſhall happen before the
+<pb facs="tcp:156898:6"/>Judges they ſhall tarry till the Parlia<g ref="char:EOLhyphen"/>ment come, before they give ſentence, that the cauſe bee declared before the King and the Parliament, whether it ought to bee adjudged treaſon or fellony; and this Sta<g ref="char:EOLhyphen"/>tute is perpetuall, no probationer; though in the Statute of three and thirtieth of <hi>Henry</hi> 8. <hi>Cap.</hi> 10. the Judges have power to attaint by a Jury, in caſes expreſſed aforeſaid, by which the attainted forfeits all his lands to the King, who ſhall bee in actuall and reall poſſeſſion of the ſame lands, tenements, he<g ref="char:EOLhyphen"/>reditaments, uſes, goods, chattells, as if the attainder had beene by authority of Parlia<g ref="char:EOLhyphen"/>ment; and ſo it is reported by <hi>Cooke</hi> and <hi>Di<g ref="char:EOLhyphen"/>er;</hi> and in a Parliament in <hi>Henry</hi> the ſixt time, all the Judges of England were of the ſame opinion, when <hi>Thorpe</hi> Speaker of the houſe of Commons, in an adjournment of ſix weekes, was impriſoned; and at the receſſe of the ſaid Parliament, upon com<g ref="char:EOLhyphen"/>plaint of the Commons, the fact being cen<g ref="char:EOLhyphen"/>ſured in the houſe of Commons and tranſ<g ref="char:EOLhyphen"/>mitted up to the Lords, the Lords asked the opinion of the Judges, the Judges anſwered they had no power to judge of any Act of the houſe of Commons, but were ſubject to them, and what the houſe of Commons ſhould ſet downe was Law; by which it
+<pb facs="tcp:156898:6"/>appeares plainly they have power to declare the facts of the Lord Strafford treaſon, which I humbly ſubmit to the high Court of Parliament.</p>
+            <p>And whereas it is obſerved that all Pa<g ref="char:EOLhyphen"/>piſts ſpeake well of him and his actions, it is very likely in recompence thereof he would bring in Popery <hi>vi &amp; armis,</hi> having power under his Majeſty to raiſe armes, and all for a Bulwarke to ſupport his greatneſſe, like to that of France.</p>
+            <p>Now the cauſe of God is in our hands, which if you omit, you ſhall never have the like opportunity to doe God and the King good ſervice.</p>
+            <p>Wherefore my prayer to God ſhall bee to open his Majeſties eies to ſee the danger he and all we are in.</p>
+            <trailer>Gloria Deo, Filio, &amp; Spiritu ſancto.</trailer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
